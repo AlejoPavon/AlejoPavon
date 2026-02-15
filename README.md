@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,jquery" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,jquery" />
   </a>
 </p>
 
@@ -75,3 +75,25 @@ REST APIs · Authentication & Authorization · MVC · Clean Architecture
     <img src="https://skillicons.dev/icons?i=html,css,php,python,typescript,javascript,java,cs,cpp" />
   </a>
 </p>
+
+<h3>DevOps / Cloud</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,vercel,supabase,firebase,azure,cloudflare" />
+  </a>
+</p>
+
+<h3>Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,arch,vscode,visualstudio,figma" />
+</p>
+
+<h3>Currently Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs" />
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoPavon&show_icons=true&theme=tokyonight)
