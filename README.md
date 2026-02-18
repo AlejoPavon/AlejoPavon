@@ -95,5 +95,3 @@ REST APIs · Authentication & Authorization · MVC · Clean Architecture
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,nestjs" />
 </p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoPavon&show_icons=true&theme=tokyonight)
